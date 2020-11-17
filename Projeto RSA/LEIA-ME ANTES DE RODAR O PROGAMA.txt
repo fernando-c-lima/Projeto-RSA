@@ -1,0 +1,9 @@
+*****************************************
+Para o progama funcionar corretamente ele tem que estar dentro do diretório C:/
+*****************************************
+
+1 - Rodar Gerar Chaves.py para gerar as chaves de encriptação N, e, d
+
+2 - Rodar Encriptar.py para inserir a mensagem a ser encriptada
+
+3 - Desencriptar a mensagem usando Desencriptar.py
